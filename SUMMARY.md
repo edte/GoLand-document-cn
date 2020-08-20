@@ -2,15 +2,41 @@
 
 * [Introduction](README.md)
 
-* [GoLand 文档](documentation/documentation.md)
-    * [安装 GoLand](install_goland/install_goland.md)
-* [IDE 配置](ide_configuration/ide_configuration.md)
-* [项目配置]()
-* [编辑源码](write_and_edit_source_code/write_and_edit_source_code.md)
-    * [代码补全](write_and_edit_source_code/code_completion.md)
-* [运行]()
-* [调试]()
-* [依赖]()
-* [测试]()
-* [分析测试]()
-* [Integrated tools]()
+* [GoLand documentation](GoLand-documentation/GoLand-documentation﻿.md)
+    * [Install GoLand](GoLand-documentation/install_goland/install_goland.md)
+    	* [Run GoLand for the first time](GoLand-documentation/install_goland/Run-GoLand-for-the-first-time.md)
+    	* [Register GoLand](GoLand-documentation/install_goland/Register-GoLand.md)
+    	* [Update GoLand](GoLand-documentation/install_goland/Update-GoLand.md)
+    	* [Uninstall GoLand](GoLand-documentation/install_goland/Uninstall-GoLand.md)
+    * [Quick start guide](GoLand-documentation/Quick-start-guide/Quick-start-guide.md)
+    * [Keyboard shortcuts](GoLand-documentation/Quick-start-guide/Keyboard-shortcuts.md)
+    * [Work offline](GoLand-documentation/Quick-start-guide/Work-offline.md)
+    * [Accessibility](GoLand-documentation/Quick-start-guide/Accessibility.md)
+    * [Getting help](GoLand-documentation/Quick-start-guide/Getting-help.md)
+    * [FAQ about GoLand](GoLand-documentation/Quick-start-guide/FAQ-about-GoLand.md)
+
+* [IDE configuration](IDE-configuration/IDE-configuration.md)
+
+* [Project configuration](Project-configuration/Project-configuration.md)
+
+* [Write and edit source code](Write-and-edit-source-code/Write-and-edit-source-code.md)
+
+* [Running](Running/Runningmd)
+
+* [Debugging](Debugging/Debugging.md)
+
+* [Deploy your application](Deploy-your-application/Deploy-your-application.md)
+
+* [Testing](Testing/Testing.md)
+
+* [Profiling for tests](Profiling-for-tests/Profiling-for-tests.md)
+
+* [Integrated tools](Integrated tools/Integrated tools.md)
+
+* [Non-Go technologies](Non-Go-technologies/Non-Go-technologies.md)
+
+* [Tutorials](Tutorials/Tutorials.md)
+
+* [Reference](Reference/Reference.md)
+
+* [Release notes](Release-notes/Release-notes.md)
