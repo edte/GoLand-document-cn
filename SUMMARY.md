@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 
 * [GoLand 文档](documentation/documentation.md)
+    * [安装 GoLand](install_goland/install_goland.md)
 * [IDE 配置](ide_configuration/ide_configuration.md)
 * [项目配置]()
 * [编辑源码](write_and_edit_source_code/write_and_edit_source_code.md)
