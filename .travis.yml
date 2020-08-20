@@ -33,7 +33,10 @@ deploy:
 
   local-dir: build
 
+  repo: edte/GoLand-documentation-cn
+
   target-branch: gh-pages
 
   email: deploy@travis-ci.org
+
   name: deployment-bot
