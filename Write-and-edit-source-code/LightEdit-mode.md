@@ -1,0 +1,2 @@
+# LightEdit mode
+
