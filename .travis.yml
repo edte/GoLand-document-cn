@@ -1,7 +1,29 @@
+language: node_js
+
+branches:
+  only:
+    - master
+
 install:
-  - npm install gitbook -g
-  
+  - npm install -g gitbook-cli
+
+script:
+  - gitbook build
 
 deploy:
-  - gitbook build
-  - git subtree push --prefix=_book origin gh-pages
+  #指定这是一份github pages的部署配置
+  provider: pages
+
+  skip_cleanup: true
+
+  # token is set in travis-ci.org dashboard
+  github_token: $GITHUB_TOKEN
+
+  local-dir: ./_book/
+
+  target-branch: gh-pages
+
+  repo: edte/GoLand-documentation-cn
+
+  on:
+    branch: master
