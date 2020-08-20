@@ -35,4 +35,3 @@ deploy:
 
   target-branch: gh-pages
 
-  repo: edte/GoLand-documentation-cn
