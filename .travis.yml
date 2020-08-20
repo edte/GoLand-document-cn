@@ -1,14 +1,14 @@
 language: node_js
 
-node_js:
-  - "v11.14.0"
 
 branches:
   only:
     - master
 
 install:
+  - npm install
   - npm install -g gitbook-cli
+  - gitbook install
 
 script:
   - gitbook build
