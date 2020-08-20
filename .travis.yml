@@ -1,0 +1,7 @@
+install:
+  - yum install gitbook
+  
+
+deploy:
+  - gitbook build
+  - git subtree push --prefix=_book origin gh-pages
