@@ -1,41 +1,67 @@
 language: node_js
 
-node_js:
-  - "node"
 
 branches:
+
   only:
+
     - master
 
+
 cache:
+
   directories:
+
     - node_modules
+
     yarn: true
 
+
+
 before_install:
+
   - export TZ='Asia/Shanghai'
 
+
+
 install:
+
   - npm install gitbook -g
+
   - npm install -g gitbook-cli
 
+
+
 script:
-  - gitbook build 
+
+  - gitbook build  
+
 
 deploy:
+
   #指定这是一份github pages的部署配置
+
   provider: pages
+
+
 
   skip_cleanup: true
 
+
+
   # token is set in travis-ci.org dashboard
+
   github_token: $GITHUB_TOKEN
+
+
 
   local-dir: ./_book/
 
+
+
   target-branch: gh-pages
+
+
 
   repo: edte/GoLand-documentation-cn
 
-  on:
-    branch: master
