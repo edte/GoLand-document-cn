@@ -1,7 +1,7 @@
 language: node_js
 
 node_js:
-  - "v11.14.0"
+  - "node"
 
 branches:
   only:
@@ -16,6 +16,7 @@ before_install:
   - export TZ='Asia/Shanghai'
 
 install:
+  - npm install gitbook -g
   - npm install -g gitbook-cli
 
 script:
