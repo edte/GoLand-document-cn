@@ -35,3 +35,5 @@ deploy:
 
   target-branch: gh-pages
 
+  email: deploy@travis-ci.org
+  name: deployment-bot
