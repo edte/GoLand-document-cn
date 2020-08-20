@@ -5,6 +5,11 @@ branches:
   only:
     - master
 
+cache:
+  directories:
+    - node_modules
+
+
 install:
   - npm install
   - npm install -g gitbook-cli
