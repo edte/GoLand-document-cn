@@ -20,7 +20,7 @@ install:
   - gitbook install
 
 script:
-  - gitbook build  
+  - gitbook build . ./build
 
 deploy:
   #指定这是一份github pages的部署配置
@@ -31,7 +31,7 @@ deploy:
   # token is set in travis-ci.org dashboard
   github_token: $GITHUB_TOKEN
 
-  local-dir: ./_book/
+  local-dir: build
 
   target-branch: gh-pages
 
