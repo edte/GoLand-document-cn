@@ -1,0 +1,2 @@
+# Code Inspections in EditorConfig
+

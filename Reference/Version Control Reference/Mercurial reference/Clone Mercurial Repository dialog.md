@@ -1,0 +1,2 @@
+# Clone Mercurial Repository dialog
+

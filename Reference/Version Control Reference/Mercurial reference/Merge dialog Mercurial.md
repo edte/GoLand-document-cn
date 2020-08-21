@@ -1,0 +1,2 @@
+# Merge dialog Mercurial
+

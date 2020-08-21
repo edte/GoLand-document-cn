@@ -1,0 +1,2 @@
+# JavaScript. Usage Scope
+

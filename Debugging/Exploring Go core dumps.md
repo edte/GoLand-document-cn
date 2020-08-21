@@ -1,0 +1,2 @@
+# Exploring Go core dumps
+

@@ -1,0 +1,2 @@
+# Inspection results tool window
+

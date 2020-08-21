@@ -1,0 +1,2 @@
+# Tool window view modes
+

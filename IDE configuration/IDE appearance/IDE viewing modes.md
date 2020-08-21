@@ -1,0 +1,2 @@
+# IDE viewing modes
+

@@ -1,0 +1,2 @@
+# Coverage Tool Window
+

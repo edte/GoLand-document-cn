@@ -1,0 +1,2 @@
+# Validating web content files
+

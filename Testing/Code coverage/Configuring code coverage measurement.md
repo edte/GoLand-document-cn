@@ -1,0 +1,2 @@
+# Configuring code coverage measurement
+

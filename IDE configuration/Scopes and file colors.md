@@ -1,0 +1,2 @@
+# Scopes and file colors
+
