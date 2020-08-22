@@ -16,7 +16,7 @@ before_script:
   - cargo install-update -a
 
 script:
-  - mdbook build path/to/mybook && mdbook test path/to/mybook
+  - mdbook build && mdbook test
 
 deploy:
   #指定这是一份github pages的部署配置
@@ -27,7 +27,7 @@ deploy:
   # token is set in travis-ci.org dashboard
   github_token: $GITHUB_TOKEN
 
-  local-dir: path/to/mybook/book
+  local-dir: book
 
   repo: edte/GoLand-documentation-cn
   
