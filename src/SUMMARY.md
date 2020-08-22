@@ -495,7 +495,7 @@
   			* [Background](Reference/Settings_Preferences_dialog/Version_Control/Background.md)
   			* [Changelists](Reference/Settings_Preferences_dialog/Version_Control/Changelists.md)
   			* [Commit](Reference/Settings_Preferences_dialog/Version_Control/Commit.md)
-  			* [Confirmation](Reference/Settings_Preferences_dialog/Version_Control/Confirmation)
+  			* [Confirmation](Reference/Settings_Preferences_dialog/Version_Control/Confirmation.md)
   			* [Issue_Navigation](Reference/Settings_Preferences_dialog/Version_Control/Issue_Navigation.md)
   				* [Add_Issue_Navigation_Link_Dialog](Reference/Settings_Preferences_dialog/Version_Control/Issue_Navigation/Add_Issue_Navigation_Link_Dialog.md)
   			* [Git](Reference/Settings_Preferences_dialog/Version_Control/Git.md)
@@ -553,7 +553,7 @@
   				* [External_Diff_Tools](Reference/Settings_Preferences_dialog/Tools/Diff_Merge/External_Diff_Tools.md)
   			* [Server_Certificates](Reference/Settings_Preferences_dialog/Tools/Server_Certificates.md)
   			* [Startup_Tasks](Reference/Settings_Preferences_dialog/Tools/Startup_Tasks.md)
-  			* [XPath_Viewer](Reference/Settings_Preferences_dialog/Tools/XPath_Viewer)
+  			* [XPath_Viewer](Reference/Settings_Preferences_dialog/Tools/XPath_Viewer.md)
 
   	* [Symbols](Reference/Symbols.md)
   	* [Tool_Windows_Reference](Reference/Tool_Windows_Reference.md)
