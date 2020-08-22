@@ -1,0 +1,6 @@
+[book]
+authors = ["edte"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GoLand-documentation-cn"

@@ -1,0 +1,1 @@
+# GOROOT_and_GOPATH
