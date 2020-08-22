@@ -1,5 +1,7 @@
 ## 代码补全
 
+
+
 ## Hippie 补全
 
 ## Postfix code completion﻿
@@ -8,7 +10,7 @@
 
 
 
-![](https://github.com/edte/images/blob/master/Write_and_edit_source_code/1823594-20200728184931817-1092003906.png)
+![](https://github.com/edte/images/raw/master/Write_and_edit_source_code/1823594-20200728184931817-1092003906.png)
 
 
 
@@ -32,7 +34,7 @@ func m(b bool) {
 
 
 
-![img](https://github.com/edte/images/blob/master/Write_and_edit_source_code/aaa.gif)
+![img](https://github.com/edte/images/raw/master/Write_and_edit_source_code/aaa.gif)
 
 
 
@@ -47,11 +49,11 @@ func m(b bool) {
 ### 创建自定义的模板
 
 1. 进入 `Settings/Preferences/Editor/General/Postfix Completion`
-2. 在工具栏中选择 ![img](https://github.com/edte/images/blob/master/Write_and_edit_source_code/1823594-20200728185835379-1794893589.png)
+2. 在工具栏中选择 ![img](https://github.com/edte/images/raw/master/Write_and_edit_source_code/1823594-20200728185835379-1794893589.png)
 3. 选择适用的语言，这里选择 go
 4. 输入 `key`，这个是在 `.` 后调用模板时需要使用的符号，然后选择适用于哪些语句
 
-![img](https://github.com/edte/images/blob/master/Write_and_edit_source_code/1823594-20200728190115841-942225835.png)
+![img](https://github.com/edte/images/raw/master/Write_and_edit_source_code/1823594-20200728190115841-942225835.png)
 
 然后按这个格式输入目标格式 `$EXPR$ <target_expression>`， 例如，`$EXPR$ != nil`
 
@@ -64,7 +66,7 @@ func m(b bool) {
 
 
 
-![img](https://github.com/edte/images/blob/master/Write_and_edit_source_code/1823594-20200728185549042-1850754258.gif)
+![img](https://github.com/edte/images/raw/master/Write_and_edit_source_code/1823594-20200728185549042-1850754258.gif)
 
 
 > 这里放个私货，笔者也写过一篇文章介绍 postfix completion 的，介绍了所有的模板，和自定义的一些常见模板，可以看看 [address](https://edte.github.io/GoLand-documentation-cn/write_and_edit_source_code/code_completion.html)
