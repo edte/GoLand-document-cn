@@ -1,2 +1,0 @@
-# Compare file versions
-

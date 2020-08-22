@@ -1,2 +1,0 @@
-# Using the Testify toolkit
-

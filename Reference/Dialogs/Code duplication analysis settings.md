@@ -1,2 +1,0 @@
-# Code duplication analysis settings
-

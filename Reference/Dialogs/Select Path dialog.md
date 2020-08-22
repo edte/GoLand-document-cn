@@ -1,2 +1,0 @@
-# Select Path dialog
-

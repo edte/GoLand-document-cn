@@ -1,2 +1,0 @@
-# Shelve Changes dialog
-

@@ -1,2 +1,0 @@
-# File and Code Templates
-

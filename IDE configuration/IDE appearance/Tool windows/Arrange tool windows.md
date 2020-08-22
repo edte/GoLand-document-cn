@@ -1,2 +1,0 @@
-# Arrange tool windows
-

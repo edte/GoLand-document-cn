@@ -1,2 +1,0 @@
-# Differences viewer for folders
-

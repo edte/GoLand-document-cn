@@ -1,2 +1,0 @@
-# Change configurations templates
-

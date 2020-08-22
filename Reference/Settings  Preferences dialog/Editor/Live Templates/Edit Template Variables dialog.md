@@ -1,2 +1,0 @@
-# Edit Template Variables dialog
-

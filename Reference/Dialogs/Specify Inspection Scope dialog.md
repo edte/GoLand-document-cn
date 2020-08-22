@@ -1,2 +1,0 @@
-# Specify Inspection Scope dialog
-

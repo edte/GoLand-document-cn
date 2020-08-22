@@ -1,2 +1,0 @@
-# Database tools and SQL
-

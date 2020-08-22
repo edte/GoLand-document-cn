@@ -1,2 +1,0 @@
-# Setup Master Password Dialog
-

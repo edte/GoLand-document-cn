@@ -1,2 +1,0 @@
-# Patch File Settings dialog
-

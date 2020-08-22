@@ -1,2 +1,0 @@
-# Database color settings dialog
-

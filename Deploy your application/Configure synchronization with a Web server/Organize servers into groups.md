@@ -1,2 +1,0 @@
-# Organize servers into groups
-

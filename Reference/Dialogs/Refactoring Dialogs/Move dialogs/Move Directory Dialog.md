@@ -1,2 +1,0 @@
-# Move Directory Dialog
-

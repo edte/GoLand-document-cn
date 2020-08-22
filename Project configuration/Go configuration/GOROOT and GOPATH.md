@@ -1,2 +1,0 @@
-# GOROOT and GOPATH
-

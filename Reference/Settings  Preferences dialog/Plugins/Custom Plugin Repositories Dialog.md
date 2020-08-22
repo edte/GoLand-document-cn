@@ -1,2 +1,0 @@
-# Custom Plugin Repositories Dialog
-

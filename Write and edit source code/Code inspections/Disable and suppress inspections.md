@@ -1,2 +1,0 @@
-# Disable and suppress inspections
-

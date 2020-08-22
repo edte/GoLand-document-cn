@@ -1,2 +1,0 @@
-# Excluded Paths Tab
-

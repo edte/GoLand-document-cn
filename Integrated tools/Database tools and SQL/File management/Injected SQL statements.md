@@ -1,2 +1,0 @@
-# Injected SQL statements
-

@@ -1,2 +1,0 @@
-# Build constraints and vendoring
-

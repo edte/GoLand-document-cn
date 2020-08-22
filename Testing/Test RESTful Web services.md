@@ -1,2 +1,0 @@
-# Test RESTful Web services
-

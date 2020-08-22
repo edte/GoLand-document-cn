@@ -1,2 +1,0 @@
-# Switch Working Directory dialog
-

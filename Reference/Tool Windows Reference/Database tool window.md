@@ -1,2 +1,0 @@
-# Database tool window
-

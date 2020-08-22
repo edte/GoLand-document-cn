@@ -1,2 +1,0 @@
-# Create New Project Dialog
-
